@@ -7,8 +7,17 @@ Análisis de datos
 Machine Learning
 Modelos de Inteligencia Artificial
 Programación
-Aprendizaje
+<ins>Aprendizaje:</ins>
+*GITHUB & GIT*
+| Rank | THING-TO-RANK |THING-TO-RANK |
+|-----:|---------------|--------------|
+|     1|https://learngitbranching.js.org/?locale=es_MX         |Webtool|
+|     2|                |
+|     3|     |
+|    4  | |
 Tecnologías en general
+
+
 Entretenimiento:
 
 <ins>Videojuegos</ins>
