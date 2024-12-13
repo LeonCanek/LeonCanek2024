@@ -51,5 +51,6 @@ Disfruto de actividades al aire liubre como correr, andar en moto y bicileta, ac
 
 :) 
 36 years old
-Taken my first steps in the path of professional development 
+Taken my first steps in the path of professional development
+I am looking for a junior job related to machine learning
 <!-- TO DO: add more details about me later -->
