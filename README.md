@@ -1,4 +1,4 @@
-# LeonCanek2024 (ﾉ^_^)ﾉ
+# LeonCanek2024 (ﾉ^_^)ﾉ (ﾉ^_^)ﾉ
 # About me.
 Tecnología e Inteligencia Artificial:
 
